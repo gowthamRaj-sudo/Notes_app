@@ -1,0 +1,11 @@
+.container {
+  height: 100vh;
+
+  padding: 2rem;
+}
+
+.heading {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #5a3c1a;
+}

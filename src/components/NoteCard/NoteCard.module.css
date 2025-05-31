@@ -1,0 +1,43 @@
+.note-card {
+  background-color: white;
+  border: 2px solid #d8b892;
+  border-radius: 10px;
+  width: 300px;
+  padding: 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  font-family: 'Poppins', sans-serif;
+  margin: 13px;
+  cursor: pointer;
+}
+
+.note-header {
+  background-color: #f6c89f;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #4a3f35;
+}
+
+.edit-icon {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.note-content {
+  padding: 12px;
+  color: #4a3f35;
+}
+
+.note-footer {
+  font-size: 12px;
+  text-align: right;
+  display: block;
+  margin-top: 12px;
+  color: gray;
+}

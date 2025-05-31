@@ -1,0 +1,16 @@
+.breadcrumb {
+  font-family: 'Courier New', monospace;
+  color: #5a4438;
+  font-size: 0.95rem;
+  margin: 10px 20px;
+}
+
+.link {
+  color: #5a4438;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
